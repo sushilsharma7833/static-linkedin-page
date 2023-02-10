@@ -1,3 +1,3 @@
 # static-linkedin-page
 
-this is my major project on full stack developer programme at skill academy !!!!
+this is my first major project on full stack developer programme at skill academy !!!!
